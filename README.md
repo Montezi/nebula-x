@@ -3,7 +3,6 @@
 <div align="center">
 
 ![NebulaX](https://img.shields.io/badge/NebulaX-Space%20Exploration-blue)
-![Hackathon](https://img.shields.io/badge/Hackathon-Winning%20Project-green)
 ![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?logo=python)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
 
