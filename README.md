@@ -63,8 +63,6 @@ Responsible for translating complexity into clarity, creating a modern, responsi
 - Open Source Community for the technologies used
 
 
-Developed with ❤️ during Hackathon 2024
-
 <div align="center">
 
 [![Frontend Repo](https://img.shields.io/badge/📁_Frontend_Repository-000?style=for-the-badge&logo=github)](https://github.com/Montezi/nebula-x-frontend)
